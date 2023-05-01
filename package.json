@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/thi3rry/leaflet-geojson-test#readme",
   "dependencies": {
-    "serve": "^11.0.0"
+    "serve": "^14.2.0"
   }
 }
